@@ -40,7 +40,7 @@ console.log("\nObject:");
 console.log(obj); // Output: { name: 'Alice', age: 25 }
 
 let obj1 = { name: "Unknown", age: 25 ,height:"5.5" ,function(){
-    console.log("print 1");
+    console.log("printoutput");
 }
 };
 console.log("\nObject1:");
